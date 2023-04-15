@@ -30,7 +30,7 @@ nav {
 @keyframes top {
   from {
     rotate: 0deg;
-    transform: translate(0px);
+    transform: translateX(0px);
   }
 
   to {
@@ -53,7 +53,7 @@ nav {
 @keyframes bottom {
   from {
     rotate: 0deg;
-    transform: translate(0px);
+    transform: translateX(0px);
   }
 
   to {
